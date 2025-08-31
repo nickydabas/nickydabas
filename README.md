@@ -14,15 +14,15 @@
 ##  Skills
 **Programming & Data**: Python (Pandas, NumPy, Scikit-learn), SQL  
 **Visualization**: Power BI, Seaborn, Matplotlib  
-**Machine Learning**: Classification, Regression, Clustering, XGBoost  
-**Tools**: Git, Jupyter Notebook, Streamlit, Excel
+**Machine Learning**: Classification, Regression, Clustering  
+**Tools**: Git, Jupyter Notebook, Power bi, Excel
 
 ---
 
 ##  Projects
 | Project | Description |
 |--------|-------------|
-| **[HR Analytics – Employee Attrition Prediction](https://github.com/nickydabas/HR-Analytics-Employee-Attrition)** | Built ML models (XGBoost with ~85% ROC-AUC) + interactive Streamlit dashboard to predict employee churn. |
+| **[HR Analytics – Employee Attrition Prediction](https://github.com/nickydabas/HR-Analytics-Employee-Attrition)** | Analyzed HR data to identify key factors behind employee attrition. Built machine learning models using **scikit-learn** (Logistic Regression, Decision Trees) to predict attrition. Created dashboards in **Excel/Power BI** to visualize trends and provide actionable insights for HR teams.
 | **[Superstore Sales Dashboard](https://github.com/nickydabas/Superstore-Sales-Dashboard-nd)** | Developed an end-to-end Power BI dashboard showing sales trends, profit, shipping, and order metrics. |
 | **[Web Scraping Quotes Project](https://github.com/nickydabas/Project1)** | Scraped quotes and authors from a site, cleaned using Pandas, and explored with visualizations. |
 
@@ -36,5 +36,3 @@
 
 ⭐ “Turning data into insights, insights into impact.”  
 
-- ⚡ Fun fact: ...
--->
