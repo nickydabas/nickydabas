@@ -1,36 +1,70 @@
-## Hi there 👋
-🎓 Aspiring Data Scientist | Python • Pandas • Seaborn • Power BI  
-🌱 Learning Machine & Deep Learning | SQL | Visualization
+# 👋 Hi, I’m Nicky Dabas  
+
+🚀 **Aspiring Data Scientist | Fresher | Passionate about Data & AI**  
+📊 Turning data into useful insights with Python, SQL, Machine Learning & Visualization.  
+🌍 Based in Bahadurgarh, Haryana, India  
 
 ---
 
-##  About Me
-- I’m currently based in Bahadurgarh, Haryana, India.
-- Passionate about turning raw data into insightful stories.
-- Preparing for data science interviews — building strong projects, dashboards, and analytical skills.
+## 🔹 About Me  
+- 🎯 I’m passionate about solving problems using data-driven approaches.  
+- 📚 Currently learning **Advanced Machine Learning & Deep Learning**.  
+- 🛠️ Building real-world projects in **Python, SQL, Power BI, Excel**.  
+- 💡 My goal: To grow as a Data Scientist and create impactful solutions.  
 
 ---
 
-##  Skills
-**Programming & Data**: Python (Pandas, NumPy, Scikit-learn), SQL  
-**Visualization**: Power BI, Seaborn, Matplotlib  
-**Machine Learning**: Classification, Regression, Clustering  
-**Tools**: Git, Jupyter Notebook, Power bi, Excel
+## 🔹 Tech Stack  
+
+| Category | Tools & Technologies |
+|----------|----------------------|
+| **Languages** | Python 🐍, SQL 💾 |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **ML/DL** | Machine Learning 🤖, Deep Learning 🧠 |
+| **Visualization** | Power BI 📊, Excel 📈 |
+| **Other Tools** | Git, Jupyter Notebook |
 
 ---
 
-##  Projects
-| Project | Description |
-|--------|-------------|
-| **[HR Analytics – Employee Attrition Prediction](https://github.com/nickydabas/HR-Analytics-Employee-Attrition)** | Analyzed HR data to identify key factors behind employee attrition. Built machine learning models using **scikit-learn** (Logistic Regression, Decision Trees) to predict attrition. Created dashboards in **Excel/Power BI** to visualize trends and provide actionable insights for HR teams.
-| **[Superstore Sales Dashboard](https://github.com/nickydabas/Superstore-Sales-Dashboard-nd)** | Developed an end-to-end Power BI dashboard showing sales trends, profit, shipping, and order metrics. |
-| **[Web Scraping Quotes Project](https://github.com/nickydabas/Project1)** | Scraped quotes and authors from a site, cleaned using Pandas, and explored with visualizations. |
+## 🔹 Featured Projects  
+
+### 📌 [HR Analytics – Employee Attrition Prediction](https://github.com/nickydabas/HR-Analytics)
+- Predicted employee attrition using Logistic Regression & Random Forest.  
+- Conducted **EDA, feature importance analysis**, and built dashboards.  
+- **Tech**: `#Python` `#Pandas` `#Scikit-learn` `#PowerBI`
 
 ---
 
-##  Connect with Me
-- [LinkedIn](https://linkedin.com/in/nicky-dabas)  
+### 📌 [Superstore Sales Dashboard](https://github.com/nickydabas/Superstore-Sales-Dashboard)
+- Developed an **interactive Power BI dashboard** analyzing sales, profit, shipping & customer trends.  
+- **Tech**: `#PowerBI` `#Visualization`
+
+---
+
+### 📌 [Web Scraping Quotes](https://github.com/nickydabas/Web-Scraping-Quotes)
+- Scraped quotes & author data from websites using Python.  
+- Cleaned data with Pandas and created insights visualization.  
+- **Tech**: `#Python` `#WebScraping` `#EDA`
+
+---
+
+## 🔹 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nickydabas&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nickydabas&layout=compact&theme=tokyonight)
+
+---
+
+## 🔹 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicky-dabas)
+- 📧 Email: nickydabas41@gmail.com  
 - [Portfolio of Projects](https://github.com/nickydabas)
+---
+
+
+
+⭐ *"Turning data into insights, insights into impact."*  
+
 
 ---
 
