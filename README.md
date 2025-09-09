@@ -66,7 +66,4 @@
 ⭐ *"Turning data into insights, insights into impact."*  
 
 
----
-
-⭐ “Turning data into insights, insights into impact.”  
 
